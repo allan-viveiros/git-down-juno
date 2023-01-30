@@ -10,13 +10,13 @@ html { box-sizing: border-box;}
 
 body {
     background-color: #1e1f4e;
-    color: palevioletred;
+    color: orangered;
     font-size: 125%;
 }
 
 a {
     text-decoration: none;
-    color: orangered;
+    color: palevioletred;
 }
 
 h1, h2 {
